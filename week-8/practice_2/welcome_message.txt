@@ -1,0 +1,1 @@
+A rust programmer is a technical being
