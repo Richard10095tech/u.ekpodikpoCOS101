@@ -13,5 +13,5 @@ fn main() {
 
 	let avg = ((t * tq) + (m * mq) + (h * hq) + (d * dq) + (a * aq))/(tq + mq + hq + dq + aq); // average
 
-	println!("The average of the total amount of sales is {}", avg);
+	println!("The average of the total amount of sales is {}",);
 }

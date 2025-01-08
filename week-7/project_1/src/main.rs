@@ -13,6 +13,7 @@ fn main() {
     std::io::stdin().read_line(&mut input1).expect("Failed to read input");
     let _work_level:String = input1.trim().parse().expect("Invalid input");
 
+
     let mut input2 = String::new();
     println!("Enter work level (Intern, Admimistrator, Senior Admimistrator, Office Manager, Director, CEO");
     std::io::stdin().read_line(&mut input2).expect("Failed to read input");

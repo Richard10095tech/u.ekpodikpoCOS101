@@ -59,7 +59,7 @@ fn checker(){
         let _area:String = input.trim().parse().expect("Invalid input"); 
  
     }
-    if _area == "C"  // Area of a cube.
+    if area == "C"  // Area of a cube.
     {
         println!("Enter lenght of the side");
         io::stdin().read_line(&mut input).expect("Failed to read input");
@@ -71,7 +71,7 @@ fn checker(){
 
 
     }
-    if _area == "V"  // Volume of a cylinder.
+    if area == "V"  // Volume of a cylinder.
     {
         println!("Enter radius");
         io::stdin().read_line(&mut input).expect("Failed to read input");

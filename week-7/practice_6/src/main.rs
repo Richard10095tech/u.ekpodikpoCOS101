@@ -8,5 +8,3 @@ fn main() {
     for index in 0..6 {
         let sum = v[index] + x[index];
         println!("{:?}", sum);
-    }
-}

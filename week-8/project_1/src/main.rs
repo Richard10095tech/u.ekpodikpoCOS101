@@ -13,7 +13,7 @@ fn main() -> std::io::Result<()> {
     let mut file = File::create("nigerian_breweries_drinks.txt")?;
 
     // Write a header to the file
-    file.write_all(b"Nigerian Breweries Drinks Categories\n")?;
+    file.write_all(b"Nigerian Breweries  Drinks Categories\n")?;
     file.write_all(b"==================================\n")?;
 
     // Write the drinks data into the file 
