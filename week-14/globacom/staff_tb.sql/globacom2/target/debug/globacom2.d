@@ -1,0 +1,1 @@
+C:\Users\Ekpodipo\Documents\u.ekpodikpoCOS101\week-14\globacom\staff_tb.sql\globacom2\target\debug\globacom2.exe: C:\Users\Ekpodipo\Documents\u.ekpodikpoCOS101\week-14\globacom\staff_tb.sql\globacom2\src\main.rs
